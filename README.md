@@ -1,16 +1,34 @@
-## Hi there 👋
+# Leveleit
 
-<!--
-**LeveleitDev/LeveleitDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software para salud y educación
 
-Here are some ideas to get you started:
+Desarrollamos **soluciones de software a la medida** para optimizar procesos, centralizar información y ayudar a las organizaciones a trabajar de manera más eficiente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+En Leveleit creemos que la tecnología debe adaptarse a las necesidades de cada organización. Por eso, diseñamos sistemas digitales enfocados en resolver problemas reales, simplificar operaciones y acompañar el crecimiento de nuestros clientes.
+
+## ¿Qué hacemos?
+
+- **Salud:** Sistemas para clínicas, consultorios y hospitales, orientados a la gestión de información y procesos médicos.
+- **Educación:** Soluciones digitales para instituciones educativas que buscan optimizar su administración y sus procesos académicos.
+- **Desarrollo a la medida:** Software diseñado según las necesidades, objetivos y flujos de trabajo de cada organización.
+
+## Nuestra filosofía
+
+Creamos tecnología con un propósito: convertir procesos complejos en herramientas prácticas, accesibles y eficientes.
+
+Buscamos construir soluciones que aporten valor real, priorizando la funcionalidad, la experiencia de usuario y la evolución constante de nuestros sistemas.
+
+## Conoce Leveleit
+
+🌐 **Sitio web oficial:** https://leveleit.com
+
+🏥 **Leveleit Médica:** https://medica.leveleit.com
+
+🎓 **Soluciones para educación:** https://escuelas.leveleit.com
+
+---
+
+<p align="center">
+  <strong>Leveleit</strong><br>
+  Tecnología diseñada para resolver necesidades reales.
+</p>
